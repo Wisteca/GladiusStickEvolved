@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<objects>
+	<data gravity="100" maxSpeed="-20"/>
+	
+	<basicElement name="fond" layer="0" physic="false" loopTime="0">
+		<position x="0" y="0" width="1920" height="1080"/>
+		<textures>
+			<texture name="fond"/>
+		</textures>
+	</basicElement>
+	
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="0" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="herbeterre"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="200" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="herbeterre"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="400" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="herbeterre"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="600" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="g_herbeterretrou"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1000" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="d_herbeterretrou"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1200" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement>	
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1200" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="g_colline"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1400" y="400" width="200" height="200"/>
+		<textures>
+			<texture name="g_colline"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1400" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1400" y="0" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="1200" y="400" width="200" height="200"/>
+		<textures>
+			<texture name="g_coin"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="false" loopTime="0" >
+		<position x="0" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="herbe"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="false" loopTime="0" >
+		<position x="200" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="herbe"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="false" loopTime="0" >
+		<position x="400" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="herbe"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="false" loopTime="0" >
+		<position x="600" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="g_herbetrou"/>
+		</textures>
+	</basicElement>
+	<basicElement name="dirt" layer="6" physic="false" loopTime="0" >
+		<position x="1000" y="200" width="200" height="200"/>
+		<textures>
+			<texture name="d_herbetrou"/>
+		</textures>
+	</basicElement>
+	<!-- 
+	 <basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="50" y="400" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement>
+	 <basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="250" y="425" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement> 
+	 <basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="450" y="450" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement> 
+ 	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="650" y="475" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement>
+ 	<basicElement name="dirt" layer="6" physic="true" loopTime="0">
+		<position x="850" y="500" width="200" height="200"/>
+		<textures>
+			<texture name="terre"/>
+		</textures>
+	</basicElement> -->
+</objects>
